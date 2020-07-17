@@ -1,0 +1,20 @@
+{
+	com.badlogic.gdx.graphics.g2d.BitmapFont: { 
+		basic-font: { file: fonts/openSeason72.fnt },
+		score-font: { file: fonts/openSeason81.fnt},
+		copyright-font : { file: fonts/openSeason36.fnt }
+	},
+
+	com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle: {
+		basic-label: { font: basic-font },
+		score-label: { font: score-font},
+		copyright-label: { font: copyright-font }
+	},
+	
+	com.badlogic.gdx.scenes.scene2d.ui.Button$ButtonStyle: {
+		help-button: { down: helpOn, up: helpOff },
+		rate-button: { down: rateOn, up: rateOff },
+		score-button: { down: scoreOn, up: scoreOff },
+		play-button: { down: playOn, up: playOff }
+	}
+}

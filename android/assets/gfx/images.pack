@@ -1,0 +1,103 @@
+
+images.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sea
+  rotate: false
+  xy: 2, 286
+  size: 890, 668
+  orig: 890, 668
+  offset: 0, 0
+  index: -1
+board
+  rotate: false
+  xy: 894, 514
+  size: 784, 440
+  orig: 784, 440
+  offset: 0, 0
+  index: -1
+pendulum
+  rotate: false
+  xy: 1680, 510
+  size: 108, 444
+  orig: 108, 444
+  offset: 0, 0
+  index: -1
+sign
+  rotate: false
+  xy: 2, 164
+  size: 360, 120
+  orig: 360, 120
+  offset: 0, 0
+  index: -1
+playOff
+  rotate: false
+  xy: 894, 352
+  size: 310, 160
+  orig: 310, 160
+  offset: 0, 0
+  index: -1
+playOn
+  rotate: false
+  xy: 2, 2
+  size: 310, 160
+  orig: 310, 160
+  offset: 0, 0
+  index: -1
+scoreOff
+  rotate: false
+  xy: 1206, 352
+  size: 310, 160
+  orig: 310, 160
+  offset: 0, 0
+  index: -1
+scoreOn
+  rotate: false
+  xy: 364, 124
+  size: 310, 160
+  orig: 310, 160
+  offset: 0, 0
+  index: -1
+helpOff
+  rotate: false
+  xy: 1790, 826
+  size: 248, 128
+  orig: 248, 128
+  offset: 0, 0
+  index: -1
+helpOn
+  rotate: false
+  xy: 1790, 696
+  size: 248, 128
+  orig: 248, 128
+  offset: 0, 0
+  index: -1
+rateOff
+  rotate: false
+  xy: 1790, 566
+  size: 248, 128
+  orig: 248, 128
+  offset: 0, 0
+  index: -1
+rateOn
+  rotate: false
+  xy: 676, 156
+  size: 248, 128
+  orig: 248, 128
+  offset: 0, 0
+  index: -1
+platform
+  rotate: false
+  xy: 1518, 472
+  size: 160, 40
+  orig: 160, 40
+  offset: 0, 0
+  index: -1
+sandclock
+  rotate: false
+  xy: 1518, 350
+  size: 80, 120
+  orig: 80, 120
+  offset: 0, 0
+  index: -1
